@@ -1,0 +1,12 @@
+.con{
+   width:100%;
+  overflow: hidden;
+}
+.grad {
+  background-image: linear-gradient(to right,red,yellow);
+  
+}
+.icon1{
+  height:50px;
+  width:50px;
+}

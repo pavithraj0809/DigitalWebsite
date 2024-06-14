@@ -1,0 +1,34 @@
+
+.img1{
+    background: url('../../public/images/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    height:600px; 
+}
+.point{
+    padding:15%;
+    margin-left:5%;
+
+}
+.Containerwidth{
+    width:100%;
+    overflow: hidden;
+}
+.btn{
+        background-image: linear-gradient(to right,red,yellow);
+        border-radius: 10px;
+}
+
+.withset{
+    width: 100%;
+    overflow: hidden;
+}
+
+.bg1{
+    padding:3%;
+    background-image: linear-gradient(to right,orange,pink);
+    
+  
+}
+        
+       
